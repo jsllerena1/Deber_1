@@ -39,6 +39,7 @@ En las siguientes diapositivas se nos presentara cada uno de los temas que se en
 ![image](https://user-images.githubusercontent.com/116833211/201968048-42a25aef-9466-4de6-8894-50f3b7e5b3cb.png)
 ![image](https://user-images.githubusercontent.com/116833211/201968070-8557c71b-aaa0-4bd3-bf5f-e74c01b399ee.png)
 # 4. VIDEO
+https://www.youtube.com/watch?v=147So8jfnik
 # 5. CONCLUSIONES
 * Esta tarea fue de gran ayuda para poder comprender de manera mas completa sobre las unidades de medición, notación científica etc. Y así también facilito la comprensión para poder realizar los ejercicios planteados.
 * Así también la tarea aclaro ciertas dudas que se presentaron sobre los temas vistos en clases sobre los circuitos básicos, así como lo fue el voltaje, corriente y las resistencias.
